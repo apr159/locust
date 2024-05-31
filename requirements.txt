@@ -1,4 +1,6 @@
-scikit-learn
-pandas 
+pandas
 numpy
+scikit-learn
+geopandas
 seaborn
+matplotlib
