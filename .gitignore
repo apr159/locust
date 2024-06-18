@@ -160,3 +160,6 @@ cython_debug/
 #.idea/
 
 conjunto_de_datos/
+nasa-coordinates/
+nasa-full/
+nasa-raw/
