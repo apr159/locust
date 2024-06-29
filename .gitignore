@@ -161,5 +161,7 @@ cython_debug/
 
 conjunto_de_datos/
 nasa-coordinates/
+gee-coordinates/
 nasa-full/
 nasa-raw/
+data/
