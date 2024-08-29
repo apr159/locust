@@ -4,3 +4,4 @@ scikit-learn
 geopandas
 seaborn
 matplotlib
+aeon
