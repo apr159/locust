@@ -165,6 +165,7 @@ gee-coordinates/
 gee-coordinates-2023/
 nasa-full/
 nasa-raw/
-data/
 coordinates/
 chart/
+data/
+.vscode/
