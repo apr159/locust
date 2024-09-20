@@ -161,10 +161,14 @@ cython_debug/
 
 conjunto_de_datos/
 nasa-coordinates/
-gee-coordinates/
+gee-coordinates-2022/
 gee-coordinates-2023/
+gee-coordinates/
+geo-data/
+ui/
 nasa-full/
 nasa-raw/
 coordinates/
 chart/
 .vscode/
+data/
