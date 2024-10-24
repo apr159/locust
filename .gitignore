@@ -163,6 +163,9 @@ conjunto_de_datos/
 nasa-coordinates/
 gee-coordinates-2022/
 gee-coordinates-2023/
+gee-coordinates-2020/
+gee-coordinates-2021/
+gee-coordinates-2024/
 gee-coordinates/
 geo-data/
 ui/
@@ -172,3 +175,4 @@ coordinates/
 chart/
 .vscode/
 data/
+models/
